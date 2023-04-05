@@ -8,7 +8,7 @@ public class Main {
         zoo.addAnimal(new Goat("Маня"));
         zoo.addAnimal(new Bat("Микки"));
         zoo.addAnimal(new Bear("Косолапыч", 61));
-
+        zoo.addAnimal(new Crocodile("Острозуб"));
         zoo.noise();
         zoo.showAll();
         System.out.println();
@@ -17,6 +17,9 @@ public class Main {
         System.out.println();
         System.out.println("Чемпион по полёту: ");
         System.out.println(zoo.championByFly());
+        System.out.println();
+        System.out.println("Чемпион по плаванию: ");
+        System.out.println(zoo.championBySwimming());
     }
 
 }

@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b5665be-4bc6-43b3-b24d-29b0d572edf3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPSeminar2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Flysquirrel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Goat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herbivore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Platypus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Predator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Speakable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Walkable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Woof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Crocodile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Floatable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -54,12 +36,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
